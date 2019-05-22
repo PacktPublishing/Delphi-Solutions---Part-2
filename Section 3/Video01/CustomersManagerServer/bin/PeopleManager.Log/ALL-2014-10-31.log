@@ -1,0 +1,13 @@
+﻿09.19.19.889 [           02760] >> /
+09.19.19.908 [           02760] << / [404 Not Found]
+09.19.20.042 [           08060] >> /favicon.ico
+09.19.20.044 [           08060] << /favicon.ico [404 Not Found]
+09.19.24.895 [           06900] >> /index.html
+09.19.24.897 [           06900] << /index.html [404 Not Found]
+09.19.39.428 [           11944] >> /people
+09.19.39.430 [           11944] GET:/people -> PeopleControllerU.TPeopleController
+09.19.42.569 [ EXCEPTION 11944] [EIBNativeException] [FireDAC][Phys][IB]unavailable database (Custom message: "Global Action Exception Handler")
+09.19.42.586 [           11944] << /people [500 Internal Server Error]
+09.22.56.794 [           04480] >> /people
+09.22.56.802 [           04480] GET:/people -> PeopleControllerU.TPeopleController
+09.22.57.021 [           04480] << /people [200 OK]

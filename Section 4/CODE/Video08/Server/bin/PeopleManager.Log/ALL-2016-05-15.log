@@ -1,0 +1,22 @@
+﻿23.48.02.721 [           08564] ENTER: Config default values
+23.48.02.755 [           08564] EXIT: Config default values
+23.48.02.755 [           08564] ENTER: LoadSystemControllers
+23.48.02.755 [           08564] EXIT: LoadSystemControllers
+23.48.10.421 [ EXCEPTION 08564] [EIBNativeException] [FireDAC][Phys][IB]unavailable database (Custom message: "Global Action Exception Handler")
+23.48.10.422 [           08564] GET:/people/1 -> PeopleControllerU.TPeopleController - 500 [FireDAC][Phys][IB]unavailable database [EIBNativeException]
+23.48.10.493 [           15784] GET:/favicon.ico -> NO ACTION  - 404 Not Found
+23.48.29.782 [           10168] GET:/people/1 -> PeopleControllerU.TPeopleController - 404 Person not found
+23.52.44.547 [           02388] ENTER: Config default values
+23.52.44.548 [           02388] EXIT: Config default values
+23.52.44.548 [           02388] ENTER: LoadSystemControllers
+23.52.44.548 [           02388] EXIT: LoadSystemControllers
+23.52.49.584 [           02388] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.53.14.453 [           04532] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.53.20.259 [           03392] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.53.41.333 [           15376] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.54.02.122 [           14488] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.54.12.847 [           03800] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.56.03.784 [           06608] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.57.10.247 [           03760] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.57.55.489 [           16760] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.59.36.682 [           05700] GET:/people -> PeopleControllerU.TPeopleController - 200 OK

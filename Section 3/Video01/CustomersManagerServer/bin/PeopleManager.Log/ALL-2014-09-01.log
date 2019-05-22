@@ -1,0 +1,9 @@
+﻿18.13.24.661 [           02408] >> /people
+18.13.24.663 [           02408] GET:/people -> PeopleControllerU.TPeopleController
+18.13.24.926 [           02408] << /people [200 OK]
+18.14.05.415 [           00568] >> /people/2
+18.14.05.415 [           00568] GET:/people/2 -> PeopleControllerU.TPeopleController
+18.14.05.441 [           00568] << /people/2 [200 OK]
+18.14.10.113 [           05264] >> /people/searches
+18.14.10.113 [           05264] POST:/people/searches -> PeopleControllerU.TPeopleController
+18.14.10.141 [           05264] << /people/searches [200 OK]

@@ -1,0 +1,14 @@
+﻿12.49.43.054 [           13308] >> /people
+12.49.43.060 [           13308] GET:/people -> PeopleControllerU.TPeopleController
+12.49.43.100 [           13308] << /people [200 OK]
+12.49.54.211 [           12864] >> /people/508
+12.49.54.211 [           12864] GET:/people/508 -> PeopleControllerU.TPeopleController
+12.49.54.237 [           12864] << /people/508 [200 OK]
+12.50.27.750 [           08564] >> /people
+12.50.27.750 [           08564] GET:/people -> PeopleControllerU.TPeopleController
+12.50.27.780 [           08564] << /people [200 OK]
+12.50.45.423 [           09724] >> /people/2
+12.50.45.423 [           09724] GET:/people/2 -> PeopleControllerU.TPeopleController
+12.50.45.453 [           09724] << /people/2 [200 OK]
+12.50.50.026 [           07420] >> /people/2
+12.50.50.026 [           07420] << /people/2 [404 Not Found]

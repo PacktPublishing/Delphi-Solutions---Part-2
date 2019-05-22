@@ -1,0 +1,8 @@
+﻿17.39.09.674 [ EXCEPTION 06712] [EFDDBEngineException] [FireDAC][Phys][IB]-312. Exact update affected [0] rows, while [1] was requested (Custom message: "")
+17.44.59.227 [ EXCEPTION 08932] [EArgumentOutOfRangeException] Argument out of range (Custom message: "")
+17.48.06.279 [ EXCEPTION 06260] [EFDDBEngineException] [FireDAC][Phys][IB]-312. Exact update affected [0] rows, while [1] was requested (Custom message: "")
+17.48.11.654 [ EXCEPTION 02164] [EFDDBEngineException] [FireDAC][Phys][IB]-312. Exact update affected [0] rows, while [1] was requested (Custom message: "")
+17.56.02.731 [ EXCEPTION 08408] [Exception] Invalid search parameters (Custom message: "")
+17.57.40.734 [ EXCEPTION 05832] [EIBNativeException] [FireDAC][Phys][IB]Dynamic SQL Error;SQL error code = -104;Token unknown - line 1, char 102;ORDER (Custom message: "")
+17.58.50.058 [ EXCEPTION 03684] [EFDDBEngineException] [FireDAC][Phys][IB]-312. Exact update affected [0] rows, while [1] was requested (Custom message: "")
+19.11.00.335 [ EXCEPTION 06924] [EFDDBEngineException] [FireDAC][Phys][IB]-312. Exact update affected [0] rows, while [1] was requested (Custom message: "")

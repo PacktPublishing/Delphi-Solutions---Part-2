@@ -1,0 +1,65 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  Caption = 'Header Footer Form'
+  ClientHeight = 567
+  ClientWidth = 384
+  FormFactor.Width = 1440
+  FormFactor.Height = 900
+  FormFactor.Devices = [Desktop]
+  DesignerMobile = True
+  DesignerWidth = 384
+  DesignerHeight = 592
+  DesignerDeviceName = 'Google Nexus 4'
+  DesignerOrientation = 0
+  DesignerOSVersion = ''
+  object Header: TToolBar
+    Height = 48.000000000000000000
+    TabOrder = 0
+    Width = 384.000000000000000000
+    object HeaderLabel: TLabel
+      Align = Contents
+      Height = 48.000000000000000000
+      StyleLookup = 'toollabel'
+      TextSettings.HorzAlign = Center
+      Text = 'Accessing iOS SDK'
+      Width = 384.000000000000000000
+    end
+  end
+  object Footer: TToolBar
+    Align = Bottom
+    Height = 48.000000000000000000
+    Position.Y = 519.000000000000000000
+    StyleLookup = 'bottomtoolbar'
+    TabOrder = 1
+    Width = 384.000000000000000000
+  end
+  object btnWithInterface: TButton
+    Align = Top
+    Height = 44.000000000000000000
+    Margins.Left = 10.000000000000000000
+    Margins.Top = 50.000000000000000000
+    Margins.Right = 10.000000000000000000
+    Margins.Bottom = 10.000000000000000000
+    Position.X = 10.000000000000000000
+    Position.Y = 98.000000000000000000
+    TabOrder = 4
+    Text = '1. Show Device Model'
+    Width = 364.000000000000000000
+    OnClick = btnWithInterfaceClick
+  end
+  object btnWithSingleton: TButton
+    Align = Top
+    Height = 44.000000000000000000
+    Margins.Left = 10.000000000000000000
+    Margins.Top = 10.000000000000000000
+    Margins.Right = 10.000000000000000000
+    Margins.Bottom = 10.000000000000000000
+    Position.X = 10.000000000000000000
+    Position.Y = 162.000000000000000000
+    TabOrder = 3
+    Text = '2. Show Device Model'
+    Width = 364.000000000000000000
+    OnClick = btnWithSingletonClick
+  end
+end

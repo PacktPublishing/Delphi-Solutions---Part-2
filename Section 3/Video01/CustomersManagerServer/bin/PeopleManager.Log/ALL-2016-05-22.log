@@ -1,0 +1,7 @@
+﻿20.00.54.186 [           14688] ENTER: Config default values
+20.00.54.187 [           14688] EXIT: Config default values
+20.00.54.188 [           14688] ENTER: LoadSystemControllers
+20.00.54.188 [           14688] EXIT: LoadSystemControllers
+20.00.54.222 [           14688] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+20.00.58.396 [           00392] GET:/people/3 -> PeopleControllerU.TPeopleController - 200 OK
+20.01.03.752 [           06272] POST:/people/searches -> PeopleControllerU.TPeopleController - 200 OK

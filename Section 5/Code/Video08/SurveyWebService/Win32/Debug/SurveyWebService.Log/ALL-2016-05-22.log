@@ -1,0 +1,13 @@
+﻿19.16.47.427 [           05780] ENTER: Config default values
+19.16.47.428 [           05780] EXIT: Config default values
+19.16.47.428 [           05780] >> Custom configuration proc
+19.16.47.428 [           05780] << Custom configuration proc
+19.16.47.428 [           05780] ENTER: LoadSystemControllers
+19.16.47.428 [           05780] EXIT: LoadSystemControllers
+19.16.47.428 [           05780] GET:/ -> NO ACTION  - 404 Not Found
+19.16.53.608 [           00344] GET:/ -> NO ACTION  - 404 Not Found
+19.16.53.672 [           02524] GET:/favicon.ico -> NO ACTION  - 404 Not Found
+19.18.48.333 [           10036] Request data: {"first_name":"Pippo","last_name":"Pluto","option1":true,"option2":false,"age":20}
+19.18.48.333 [           10036] Wait a bit...
+19.18.53.334 [           10036] Response sent
+19.18.53.334 [           10036] POST:/surveys -> SurveysCollectorCtrlU.TSurveyCollector - 200 

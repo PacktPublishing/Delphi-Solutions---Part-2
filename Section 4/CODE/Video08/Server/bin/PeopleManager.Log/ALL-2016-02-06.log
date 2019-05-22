@@ -1,0 +1,14 @@
+﻿23.31.58.419 [           13828] ENTER: Config default values
+23.31.58.422 [           13828] EXIT: Config default values
+23.31.58.422 [           13828] ENTER: LoadSystemControllers
+23.31.58.422 [           13828] EXIT: LoadSystemControllers
+23.32.03.652 [           13828] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.32.14.518 [           03532] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.32.55.563 [           08712] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.33.01.786 [           11224] GET:/people/2 -> PeopleControllerU.TPeopleController - 404 Person not found
+23.33.17.739 [           03640] GET:/people/3 -> PeopleControllerU.TPeopleController - 200 OK
+23.33.33.944 [           08084] PUT:/people/573 -> PeopleControllerU.TPeopleController - 200 Person updated
+23.36.24.449 [           12224] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.36.38.268 [           04924] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+23.41.41.605 [           11532] GET:/ -> NO ACTION  - 404 Not Found
+23.41.41.771 [           08264] GET:/favicon.ico -> NO ACTION  - 404 Not Found

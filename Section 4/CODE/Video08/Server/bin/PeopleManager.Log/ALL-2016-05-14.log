@@ -1,0 +1,29 @@
+﻿14.01.08.950 [           09912] ENTER: Config default values
+14.01.08.952 [           09912] EXIT: Config default values
+14.01.08.952 [           09912] ENTER: LoadSystemControllers
+14.01.08.952 [           09912] EXIT: LoadSystemControllers
+14.01.10.462 [           11520] ENTER: Config default values
+14.01.10.462 [           11520] EXIT: Config default values
+14.01.10.462 [           11520] ENTER: LoadSystemControllers
+14.01.10.462 [           11520] EXIT: LoadSystemControllers
+14.01.14.099 [           09912] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+14.01.15.494 [           11520] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+14.01.28.833 [           10768] GET:/ -> NO ACTION  - 404 Not Found
+14.01.28.875 [           06968] GET:/favicon.ico -> NO ACTION  - 404 Not Found
+14.01.37.810 [           17356] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+14.01.43.137 [           03004] ENTER: Config default values
+14.01.43.142 [           03004] EXIT: Config default values
+14.01.43.142 [           03004] ENTER: LoadSystemControllers
+14.01.43.142 [           03004] EXIT: LoadSystemControllers
+14.01.43.546 [           02180] ENTER: Config default values
+14.01.43.550 [           02180] EXIT: Config default values
+14.01.43.551 [           02180] ENTER: LoadSystemControllers
+14.01.43.551 [           02180] EXIT: LoadSystemControllers
+14.01.48.192 [           03004] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+14.01.58.330 [           02180] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+14.02.13.047 [           00712] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+14.02.14.312 [           02896] GET:/people/2 -> PeopleControllerU.TPeopleController - 404 Person not found
+14.02.23.196 [           07648] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
+14.02.30.628 [           07548] GET:/people/2 -> PeopleControllerU.TPeopleController - 404 Person not found
+14.02.41.728 [           04008] GET:/people/572 -> PeopleControllerU.TPeopleController - 200 OK
+14.02.52.016 [           14276] GET:/people -> PeopleControllerU.TPeopleController - 200 OK
